@@ -1,0 +1,26 @@
+[
+    {
+        "id": "project1",
+        "title": "Project 1",
+        "author": "Johnny Truant",
+        "image": "projects/project1/maxresdefault.jpg",
+        "song": "projects/project1/Among the Bells.mp3",
+        "description": "The first project, this one is a really nice one that I like a lot."
+    },
+    {
+        "id": "project2",
+        "title": "Project 2",
+        "author": "Karen Green",
+        "image": "projects/project2/DSC00032_small.jpg",
+        "song": "projects/project2/Among the Bells.mp3",
+        "description": "The second project. This one is also great and I need to write some more text."
+    },
+    {
+        "id": "project3",
+        "title": "Project 3",
+        "author": "Will Navidson",
+        "image": "projects/project3/374566.jpg",
+        "song": "projects/project3/Among the Bells.mp3",
+        "description": "Just another project. Nothing to see here."
+    }
+]
