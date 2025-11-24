@@ -12,6 +12,7 @@ fetch('projects/index.json')
         <img src="${p.image}">
         <audio controls src="${p.song}"></audio>
         <p class="description">${p.description}</p>
+        <a href="${p.link}" target="_blank">${p.linktext}</a>
       `;
             container.appendChild(div);
         });

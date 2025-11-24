@@ -1,26 +1,82 @@
 [
     {
-        "id": "project1",
-        "title": "Project 1",
-        "author": "Johnny Truant",
-        "image": "projects/project1/maxresdefault.jpg",
-        "song": "projects/project1/Among the Bells.mp3",
-        "description": "The first project, this one is a really nice one that I like a lot."
+        "id": "project8",
+        "title": "itz the end of jazzz as we know it jazzs not dead",
+        "author": "Kai Boo",
+        "image": "projects/project8/artwork.png",
+        "song": "projects/project8/7ec63d4066102ed6705604188cfaaeca.mp3",
+        "link": "",
+        "linktext": "",
+        "description": ""
     },
     {
-        "id": "project2",
-        "title": "Project 2",
-        "author": "Karen Green",
-        "image": "projects/project2/DSC00032_small.jpg",
-        "song": "projects/project2/Among the Bells.mp3",
-        "description": "The second project. This one is also great and I need to write some more text."
+        "id": "project6",
+        "title": "Perusal",
+        "author": "Sophia Haydon-Khan",
+        "image": "projects/project6/original_50fed5d84e8e1e8d18faf057072a6091.png",
+        "song": "projects/project6/bfe9f6ea59b57d9b21d0112ee5b60c33.mp3",
+        "link": "https://drive.google.com/file/d/1nk6SDmbLROcbT3WTOHUMyv_WKF2usbr7/view?usp=sharing",
+        "linktext": "Link to Associated Video",
+        "description": "I combed through videos and audio throughout my camera roll/albums, finding which sounds felt evocative of a certain moment in time—the resounding thought I had became: what sounds have I made, what sounds have I heard. My intention is to bring the listener into a gallery/collection of memories using both a visual and auditory approach, prioritizing the emotional weight of a memory over the literal experience. Weaving together these overlapping sounds and images, manipulating them into something semi-cohesive I felt like sampling served as an absorbing way to view memory and nostalgia—fractured, incoherent, refracted, manipulated.\nSo much of what’s compelling about sampling is listening for a refrain you recognize. These are my own videos, sounds, and experiences but many of these sounds are recognizably nostalgic—the tinkling bell of an ice cream vendor, an automated train voice, friends singing you happy birthday, or a count down to new years."
     },
     {
         "id": "project3",
-        "title": "Project 3",
-        "author": "Will Navidson",
-        "image": "projects/project3/374566.jpg",
-        "song": "projects/project3/Among the Bells.mp3",
-        "description": "Just another project. Nothing to see here."
+        "title": "Untitled until we get to the very end and I know if you're still with me",
+        "author": "K Angel",
+        "image": "projects/project3/original_cd47a7d09648bf01b58652d797bd4d12.jpg",
+        "song": "projects/project3/89a05514a94109eeb104272ae4f92739.mp3",
+        "link": "",
+        "linktext": "",
+        "description": ""
+    },
+    {
+        "id": "project2",
+        "title": "möbius soup",
+        "author": "Jeanette Andrews",
+        "image": "projects/project2/original_53db5816f1481bd52cb6cfa445a6ac1d.jpg",
+        "song": "projects/project2/1a9ab1599714ce5eefab6df774fd8472.mp3",
+        "link": "",
+        "linktext": "",
+        "description": "Welcome to 'möbius soup.' As you begin listening, you'll shortly find yourself stuck in an 8-bar loop. Impatient, the drums will start to speed up in an attempt to flee. As the song reaches 200 BPM, you crash into an experimental soup of noise. You've escaped! Except... if you listen close enough, the very end is simply the reverse of the beginning: the entire song is a möbius loop. All samples have been stemmed with Fadr. The drums are sampled from a 1996 DnB track by British artist Kid Loops. Other samples are from 90s Japanese abstract jazz/experimental electronic music artists DJ Hati-Monji, Masaaki Kitta, and Computer Soup. 'Soup's secrets will always be elusive, as slippery as Computer Soup's asymmetric synthesis of sibilations.' -Gil Gershman in 'Out Of Perspective' released by Soup-Disk."
+    },
+    {
+        "id": "project5",
+        "title": "Tidepool",
+        "author": "Jackie Angel",
+        "image": "projects/project5/original_46962274207de66bce4b48f229c95973.jpg",
+        "song": "projects/project5/efebeefa31fd750c29176e1d25135142.mp3",
+        "link": "",
+        "linktext": "",
+        "description": "Jackie Angel\n\nDesigner & Sound Artist\n\ninquiry@jacquelineangel.com\n\n'Tidepool' is a relational in-between space where tactile percussive textures swirl with lush, wave-worn pads, shaping ambient contours.\n\nMy goal was to translate the attunement and presence of a shifting relationship into a diverse soundscape, while also channeling impressions of the California coast, where I grew up."
+    },
+    {
+        "id": "project4",
+        "title": "In Transition",
+        "author": "Benjamin Lopez",
+        "image": "projects/project4/original_90e56a155f2d80001dbeb71c237c1fd5.jpg",
+        "song": "projects/project4/2fa7a71adccf430a0bc534b3b6c46e41.mp3",
+        "link": "",
+        "linktext": "",
+        "description": "In the midst of the chaos of the city, I always try to find the stillness contained within. The alleyways, the quiet bookstore, or a walk through the park are juxtaposed with the honks of traffic, street performers, or voices of people. A recent journey to Chicago inspired me to sample the sounds I heard and create something that could reflect the transition between the two opposites; tranquility and disruption, calm and chaotic, peace and distress. All sounds in this track were recorded using my audio recorder and camera, and subsequently sampled in a DAW. I've always loved synths and their versatility, and I was fortunate to capture a sound that I could morph into one to make chords. And shoutout to The Chicago Bucket Boys for the drum samples."
+    },
+    {
+        "id": "project1",
+        "title": "Among the Bells",
+        "author": "Brian Falkenstein",
+        "image": "projects/project1/original_1b3a927eeaa8fc4304e00d3b8db14afb.jpg",
+        "song": "projects/project1/1a5a896184e20c916f0e542661ebd817.mp3",
+        "link": "",
+        "linktext": "",
+        "description": "Features samples from Debussy's 'Estampes', Chopin's 'Nocturne', as well as self recorded guitar samples. This piece is meant to represent the dichotomy of destruction and creation, as well as the struggle for attention in the internet age. Samples were chopped at random and performed on a MIDI keyboard. What begins as sparse and hesitant culimates into a cacophonic climax."
+    },
+    {
+        "id": "project7",
+        "title": "OFF LINE//ON WATER",
+        "author": "Maggie Wallace",
+        "image": "projects/project7/original_d83837c7658066875ca535a9edc520b7.png",
+        "song": "projects/project7/7f5ebd76a5a7aaadab9cf9927eab3b0d.mp3",
+        "link": "",
+        "linktext": "",
+        "description": "OFF LINE//ON WATER begins with the sound of a gentle rainfall, but soon evolves into a rich collection of vocal and instrumental samples, which build off of one another to create a haunting (yet groovy!) refrain. The piece is not meant to be a reflection upon anything in particular, but is more akin to an experiment; both recognizable and ambiguous sounds are layered, culminating in one disorienting soundscape that, by the end, renders each sample’s singularity destroyed."
     }
 ]
